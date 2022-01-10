@@ -1,0 +1,7 @@
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\Rover\Rover\bin\Debug\Rover.exe.config
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\Rover\Rover\bin\Debug\Rover.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\Rover\Rover\bin\Debug\Rover.pdb
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\Rover\Rover\obj\Debug\Rover.csproj.AssemblyReference.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\Rover\Rover\obj\Debug\Rover.csproj.CoreCompileInputs.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\Rover\Rover\obj\Debug\Rover.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\Rover\Rover\obj\Debug\Rover.pdb
